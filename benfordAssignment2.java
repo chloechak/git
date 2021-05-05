@@ -12,5 +12,9 @@ class benfordAssignment2 {
         // continuation of step 2 option b: the legend of the graph ( ex. 1: 28% 2: 34%) will be transferred to a csv file called results.csv
         // hello
         // hello 
+        // hello
+        // hello
+        // hello 3
+
     }
 }
